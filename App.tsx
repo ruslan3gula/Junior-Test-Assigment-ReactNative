@@ -47,8 +47,8 @@ function App(): JSX.Element {
   return (
     // <NavigationContainer>
     // <RootNav />
-    // <HomeScreen />
-    <ListScreen />
+    <HomeScreen />
+    // <ListScreen />
     // </NavigationContainer>
   );
 }
